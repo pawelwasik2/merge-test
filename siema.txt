@@ -1,1 +1,2 @@
 siema
+dodaje nowy ficzer w bowym branchu, dobrze dziala
