@@ -1,2 +1,4 @@
 onlymain
 a cot o 
+
+dodanie jakis zmian glownych na mainie
